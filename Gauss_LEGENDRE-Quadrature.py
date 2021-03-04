@@ -2,8 +2,7 @@
 """
 Created on Wed Feb 24 00:53:37 2021
 
-@author: Abhay Singh Rawat
-Title:Gauss-Legendre-Quadrature method for integration
+@author: CoderNova-asr
 
 """
 import scipy.integrate as integral

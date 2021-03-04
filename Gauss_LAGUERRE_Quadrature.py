@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 27 23:19:30 2021
 
-@author: DELL
+@author: CoderNova-asr
 """
 import scipy.integrate as integral
 import numpy as np
